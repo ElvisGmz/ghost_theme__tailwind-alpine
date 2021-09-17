@@ -17,7 +17,7 @@ If you add a class or remove another you can run `npm run build` to rebuild the 
 
 Much work to recharge? You just have to run the command `npm run watch` and now you will have the terminal automatically compiling your Tailwind CSS every time you make a change either in the configuration or in your layout.
 
-To view the changes you only have to reload the page, in case it does not work reload by clearing the browser cache (in Firefox & Chrome you can reload without cache with the shortcut `CTRL + F5` or` Shift + Command + R`).
+To view the changes you only have to reload the page, in case it does not work reload by clearing the browser cache (in Firefox & Chrome you can reload without cache with the shortcut `CTRL + F5` or `Shift + Command + R`).
 
 Note: remember that the terminal must be located in the theme folder to be able to execute the commands included in the theme
 
